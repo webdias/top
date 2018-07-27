@@ -713,7 +713,7 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/img-20180725-wa0012-1-960x960.jpg",
+                "image": "@PROJECT_PATH@/assets/images/07-800x800.jpg",
                 "active": true,
                 "showButtons": true,
                 "showText": true,
@@ -724,9 +724,9 @@
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
                 "title": "RENATA CASTRO",
-                "overlay": false,
+                "overlay": true,
                 "contentAlign": "center",
-                "text": "O prazer começa aqui, venha conferir !",
+                "text": "Escolha sua posição e venha se divertir comigo !",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success display-4\" href=\"https://api.whatsapp.com/send?phone=5571986942148text=Oi%C3%A1,%20lindo%20site%20quero%20agendar%20uma%20visita!\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Meu WhatsApp</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" href=\"index.html#gallery3-z\" data-toolbar=\"-mbrBtnMove\">Fotos</a>",
                 "overlayOpacity": "0.3"
               }
