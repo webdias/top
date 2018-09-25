@@ -713,7 +713,7 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/img-20180720-wa0038-516x387.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20180628-wa0009-1-720x1280.jpg",
                 "active": false,
                 "showButtons": true,
                 "showText": true,
@@ -723,15 +723,15 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "Lasisa Brandão",
+                "title": "Letícia Muniz",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "O prazer começa aqui, venha conferir !",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success display-4\" href=\"https://api.whatsapp.com/send?phone=5571988843129text=Ol%C3%A1,%20lindo%20site%20quero%20agendar%20uma%20visita!\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Meu WhatsApp</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" href=\"index.html#gallery3-z\" data-toolbar=\"-mbrBtnMove\">Fotos</a>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success display-4\" href=\"https://api.whatsapp.com/send?phone=5571991585060text=Ol%C3%A1,%20lindo%20site%20quero%20agendar%20uma%20visita!\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Meu WhatsApp</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" href=\"index.html#gallery3-z\" data-toolbar=\"-mbrBtnMove\">Fotos</a>",
                 "overlayOpacity": "0.3"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-20180720-wa0040-516x387.jpg",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2018-09-25-at-1.53.51-pm-2-768x1152.jpg",
                 "active": true,
                 "showButtons": true,
                 "showText": true,
